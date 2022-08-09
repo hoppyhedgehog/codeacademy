@@ -26,3 +26,4 @@ string Profile::view_profile() {
 void Profile::add_hobby(std::string new_hobby){
   hobbies.push_back(new_hobby);
 }
+
